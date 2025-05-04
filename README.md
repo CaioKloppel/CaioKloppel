@@ -1,4 +1,4 @@
-# 💫 Hello world! Meu nome é Caio Klöppel
+# 🖥️ Hello world! Meu nome é Caio Klöppel
 - Tenho 18 anos e sou natural de Joinville - SC. 📍
 - Atualmente sou estudante de Ciências da Computação da PUCPR - Curitiba. 👨‍💻
 - Iniciei na programação em dezembro de 2024 e estou sempre aprendendo. 📈
